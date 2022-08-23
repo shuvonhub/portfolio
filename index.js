@@ -51,7 +51,7 @@ const cvtitle = document.querySelector(".cvtitle");
 const cvflex = document.querySelector(".cvflex");
 
 window.addEventListener("scroll", () => {
-  if (window.scrollY > 4550) {
+  if (window.scrollY > 3300) {
     cvtitle.style.opacity = "1";
     cvflex.style.opacity = "1";
     // presentation.style.textAlign = "center";
