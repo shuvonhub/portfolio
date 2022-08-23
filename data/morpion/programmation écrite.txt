@@ -1,0 +1,50 @@
+si (Xx1 = Xx2 = Xx3 ou Xy1 = Xy2 = Xy3) alors X gagné
+
+si (Xx1 - Xx2  = 25 ET Xx3 - Xx2 = 25) ET (Xy1 - Xy2 = 25 ET Xy3 - Xy2 = 25)
+alors X gagné
+
+_______________________________
+
+si (Ox1 = Ox2 = Ox3 ou Oy1 = Oy2 = Oy3) alors O gagné
+
+si (Ox1 - Ox2  = 25 ET Ox3 - Ox2 = 25) ET (Oy1 - Oy2 = 25 ET Oy3 - Oy2 = 25)
+alors O gagné
+
+_______________________
+
+si textcontent de 
+
+123
+ou
+456
+ou
+789
+ou
+147 } == X, alors X gagné
+ou 
+258
+ou
+369
+ou
+159
+ou
+753
+
+si textcontent de 
+
+123
+ou
+456
+ou
+789
+ou
+147 } == O, alors O gagné
+ou 
+258
+ou
+369
+ou
+159
+ou
+753
+
