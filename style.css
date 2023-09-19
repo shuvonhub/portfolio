@@ -43,7 +43,8 @@ transition: 0.5s;
 .navbar ul li {
   list-style: none;
   font-size: 2rem;
-  font-family: "Abril Fatface", cursive;
+  font-weight: bold;
+  /* font-family: "Abril Fatface", cursive; */
   letter-spacing: 2px;
   transition: 0.15s
   margin-left: 10px;
@@ -110,7 +111,8 @@ margin-bottom: 5px;
 .navbar2 ul li {
   list-style: none;
   font-size: 1.5rem;
-  font-family: "Abril Fatface", cursive;
+  font-weight: bold;
+  /* font-family: "Abril Fatface", cursive; */
   letter-spacing: 2px;
   transition: 0.15s
   margin-left: 10px;
@@ -173,10 +175,10 @@ background-size: cover;
   /* position: absolute; */
   transition: 0.4s;
   font-size: 2rem;
-  font-family: "Abril Fatface", cursive;
+  font-weight: bold;
+  /* font-family: "Abril Fatface", cursive; */
   letter-spacing: 2px;
   color: whitesmoke;
-  font-weight: lighter;
   margin: auto;
   /* margin-top: 15px; */
   border-radius: 6px;
@@ -202,6 +204,7 @@ background-size: cover;
   background-size: cover;
   background-position: 0 -17px;
   border-radius: 50%;
+  transition: 0.3s;
   /* margin-top: 50px; */
 }
 
